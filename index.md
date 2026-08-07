@@ -75,7 +75,7 @@
 
 # 新規出店に向けた投資最適化と集客ドライバーに関する分析レポート
 
-<div class="author"><strong>作成者:</strong> [あなたの氏名]</div>
+<div class="author"><strong>作成者:</strong> [山田智理]</div>
 
 ## 1. エグゼクティブ・サマリー（結論）
 
